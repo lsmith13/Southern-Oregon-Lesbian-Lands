@@ -20,21 +20,21 @@ source-code: https://github.com/lsmith13/collectionbuilder-Southern-Oregon-Lesbi
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: CollectionBuilder-Southern Oregon Lesbian Lands 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Materials related to the Lesbian Lands moevment in Southern Oregon
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection is made for an indepdendent digital history project with the University of Oregon History and Digital Humanities Departments"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Lilly Smith
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: Collectionbuilder-data
 
 ##########
 # Site/Organization Branding 
