@@ -14,14 +14,4 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This collection is made to function as an archive for sources related to the Lesbian Lands movement of Southern Oregon. This movement is in relation to Back to the Lands movement of the 1960s and 1970s, and is based around lesbian femenist culture. This movement was pioneered by groups of lesbian women who were loooking to find alternative livestyles outside of patriarchal norm culture. Many of these communities were based in Southern Oregon, with over twelve still operating to this day, a near fifty years later. 
