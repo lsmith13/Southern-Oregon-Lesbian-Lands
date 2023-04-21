@@ -22,7 +22,7 @@ The movement attempted to remove themselves from mainstream consumerism and gove
 
 ***"They dreamed of finding lesbian femenists out West, women they could share their lives with. They made a strong commitment to each other , a commitment to buy land together. Their lesbiansim and the belief that women could and should create new ways of being and working togtehr made it possible for them to make such a commintment."*** 
  
- -A quote by Nelly from the book * Country Lesbians: The Story of the Womanshare Collective * by Sue, Nelly, Dian, Carol, and Billie of the Womanshare Collective
+ -A quote by Nelly from the book *Country Lesbians: The Story of the Womanshare Collective* by Sue, Nelly, Dian, Carol, and Billie of the Womanshare Collective
 
 
 Today, the University of Oregon's Special Collections Library cholds the largest collection of documentation on the movement. Much of the collection was donated by prominent members such as Ruth and Jean Mountaingrove from Rootworks and Tee Corrine, a lesbian photogrpaher who was active throughout the movement.   
