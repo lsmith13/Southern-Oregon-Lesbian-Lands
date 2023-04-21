@@ -68,7 +68,7 @@ metadata: collection-builder4
 #
 # Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build
-# (this is done automatically by gh-pages build)
+# (this is done automatically by gh-pages build) 
 #
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
