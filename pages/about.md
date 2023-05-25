@@ -24,6 +24,8 @@ The movement attempted to remove themselves from mainstream consumerism and gove
  
  -A quote by Nelly from the book *Country Lesbians: The Story of the Womanshare Collective* by Sue, Nelly, Dian, Carol, and Billie of the Womanshare Collective
 
+https://youtu.be/oBbhtRgPzGA
+
 
 Today, the University of Oregon's Special Collections Library cholds the largest collection of documentation on the movement. Much of the collection was donated by prominent members such as Ruth and Jean Mountaingrove from Rootworks and Tee Corrine, a lesbian photogrpaher who was active throughout the movement.   
 
